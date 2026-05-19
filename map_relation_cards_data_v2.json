@@ -1,0 +1,2108 @@
+[
+  {
+    "id": 0,
+    "card": "Card 0",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 0,
+    "upright": {
+      "direction": "上向き",
+      "title": "心に入り始めている",
+      "comment": "相手は、あなたの存在を少しずつ意識し始めています。まだ恋愛感情とははっきりしていませんが、あなたのことをもう少し知りたい気持ちがあります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "気持ちを確かめている",
+      "comment": "相手は、あなたのことが気になっています。ただ、その気持ちをまだ整理できておらず、近づきたい思いと迷いの間で距離を確かめています。",
+      "state": "UNSTABLE",
+      "stateCode": "U",
+      "stateLabel": "動揺傾向",
+      "stateMeaning": "気持ちが揺れやすい"
+    }
+  },
+  {
+    "id": 1,
+    "card": "Card 1",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 1,
+    "upright": {
+      "direction": "上向き",
+      "title": "関わりたい気持ち",
+      "comment": "相手は、あなたに自分から関わりたい気持ちが生まれ始めています。まだ大きな行動には出ていなくても、関係を少し動かしたい意識があります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "動き方に迷っている",
+      "comment": "相手は、あなたに関わりたい気持ちはあります。ただ、どう動けばよいのか迷っていて、考えすぎて行動が止まりやすくなっています。",
+      "state": "UNSTABLE",
+      "stateCode": "U",
+      "stateLabel": "動揺傾向",
+      "stateMeaning": "気持ちが揺れやすい"
+    }
+  },
+  {
+    "id": 2,
+    "card": "Card 2",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 2,
+    "upright": {
+      "direction": "上向き",
+      "title": "静かに見つめている",
+      "comment": "相手は、あなたの言葉や態度をよく見ています。すぐに気持ちを表に出すより、あなたとの関係を落ち着いて感じ取ろうとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "考えすぎて揺れている",
+      "comment": "相手は、あなたのことを気にしています。ただ、小さな言葉や反応を考えすぎて、気持ちがまとまりにくくなっています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 3,
+    "card": "Card 3",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 3,
+    "upright": {
+      "direction": "上向き",
+      "title": "やわらかな好意",
+      "comment": "相手は、あなたとの関係にやわらかい好意を持ち始めています。あなたと関わることで気持ちが動き、自然に距離を縮めたい感覚があります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "好意を出しきれない",
+      "comment": "相手は、あなたへの気持ちはあります。ただ、それをどう表せばよいのか迷っていて、好意を自然に出しきれていない状態です。",
+      "state": "UNSTABLE",
+      "stateCode": "U",
+      "stateLabel": "動揺傾向",
+      "stateMeaning": "気持ちが揺れやすい"
+    }
+  },
+  {
+    "id": 4,
+    "card": "Card 4",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 4,
+    "upright": {
+      "direction": "上向き",
+      "title": "安心して意識している",
+      "comment": "相手は、あなたとの関係に落ち着きや安心感を持っています。急に距離を縮めるより、今の安定した関わり方を大切にしたい気持ちがあります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "大事だから慎重",
+      "comment": "相手は、あなたとの関係を大事に思っています。ただ、今の関係を崩したくない気持ちが強く、行動は少し控えめになりやすい状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 5,
+    "card": "Card 5",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 5,
+    "upright": {
+      "direction": "上向き",
+      "title": "きちんと考えている",
+      "comment": "相手は、あなたとの関係をきちんと考えようとしています。感情だけで動くのではなく、自分の価値観や経験に照らして、慎重に受け止めています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "受け止め方を探している",
+      "comment": "相手は、あなたへの気持ちと自分の考え方の間で少し迷っています。どう受け止めればよいのかを考えながら、気持ちを整理している状態です。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 6,
+    "card": "Card 6",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 6,
+    "upright": {
+      "direction": "上向き",
+      "title": "前向きに選びたい",
+      "comment": "相手は、あなたとの関係を前向きに選びたい気持ちがあります。あなたと関わる時間や距離感に、自然と心が向きやすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "近づきたいけど迷う",
+      "comment": "相手には、あなたへの気持ちがあります。ただ、はっきり選びきれない迷いもあり、近づきたい気持ちと立ち止まる気持ちの間で揺れています。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 7,
+    "card": "Card 7",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 7,
+    "upright": {
+      "direction": "上向き",
+      "title": "少し進めたい気持ち",
+      "comment": "相手は、あなたとの関係を少し進めたい気持ちが強まっています。気持ちを抑えるより、少しずつ前に出していきたい意識があります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "思いが空回りしやすい",
+      "comment": "相手は、あなたに近づきたい気持ちはあります。ただ、どう動けばよいのかがつかめず、思いが空回りしやすい状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 8,
+    "card": "Card 8",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 8,
+    "upright": {
+      "direction": "上向き",
+      "title": "穏やかに大切にしたい",
+      "comment": "相手は、あなたへの感情を落ち着いて受け止めようとしています。強く出すより、穏やかな距離で大切にしたい気持ちがあります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "感情が整いにくい",
+      "comment": "相手は、あなたへの気持ちが少し揺れやすくなっています。近づきたい思いはあっても、自分の感情をうまく整えきれていない状態です。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 9,
+    "card": "Card 9",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 9,
+    "upright": {
+      "direction": "上向き",
+      "title": "自分の中で考えている",
+      "comment": "相手は、あなたへの気持ちを自分の中で深く考えています。すぐに表へ出すより、まずは自分の中で納得したい状態です。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "内側にこもりやすい",
+      "comment": "相手は、あなたのことを考えすぎて少し内側にこもっています。気持ちはありますが、外へ出すきっかけを見つけにくくなっています。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 10,
+    "card": "Card 10",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 10,
+    "upright": {
+      "direction": "上向き",
+      "title": "見方が変わり始める",
+      "comment": "相手は、あなたとの関係に変化を感じ始めています。これまでと同じ見方ではなく、少し違う存在としてあなたを意識し始めています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "変化に乗りきれない",
+      "comment": "相手は、あなたとの関係が変わりそうだと感じています。ただ、その流れにまだ乗りきれず、気持ちの切り替えに時間がかかっています。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 11,
+    "card": "Card 11",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 11,
+    "upright": {
+      "direction": "上向き",
+      "title": "冷静に見つめている",
+      "comment": "相手は、あなたへの気持ちを冷静に見ようとしています。感情だけで判断せず、この関係をどう受け止めるかを落ち着いて考えています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "気持ちと理屈で揺れる",
+      "comment": "相手は、あなたへの気持ちと理屈の間で揺れています。好き嫌いだけでは決めきれず、心の中でバランスを取ろうとしています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 12,
+    "card": "Card 12",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 12,
+    "upright": {
+      "direction": "上向き",
+      "title": "ゆっくり見直している",
+      "comment": "相手は、あなたとの関係を一度ゆっくり見つめています。動きは少なくても、気持ちの向きや距離感を考え直している状態です。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "動き出せずにいる",
+      "comment": "相手は、あなたへの気持ちを抱えたまま動き出せずにいます。考える時間が長くなり、近づくきっかけをつかみにくくなっています。",
+      "state": "DISPERSED",
+      "stateCode": "S",
+      "stateLabel": "分散傾向",
+      "stateMeaning": "意識や気持ちが散らばっている"
+    }
+  },
+  {
+    "id": 13,
+    "card": "Card 13",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 13,
+    "upright": {
+      "direction": "上向き",
+      "title": "新しい見方へ移る",
+      "comment": "相手は、あなたとの関係の見方が変わり始めています。これまでの距離感を見直し、新しい受け止め方へ移ろうとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "変えたいのに変えきれない",
+      "comment": "相手は、あなたへの気持ちを変えたいのに変えきれずにいます。古い考えや迷いが残り、関係をどう受け止めるか整理できていません。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 14,
+    "card": "Card 14",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 14,
+    "upright": {
+      "direction": "上向き",
+      "title": "自然な距離を整える",
+      "comment": "相手は、あなたとの関係を穏やかに整えたいと思っています。無理に近づくより、自然な流れで安心できる距離を作ろうとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "距離感が整いにくい",
+      "comment": "相手は、あなたへの気持ちに波があります。近づきたい気持ちと落ち着きたい気持ちが混ざり、距離感をうまく整えきれていません。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 15,
+    "card": "Card 15",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 15,
+    "upright": {
+      "direction": "上向き",
+      "title": "強く惹かれている",
+      "comment": "相手は、あなたに強く惹かれています。理屈では整理しきれない感情が動き、あなたの存在が気になりやすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "気持ちが強すぎる",
+      "comment": "相手は、あなたへの気持ちが強くなりすぎて、少し扱いにくくなっています。惹かれる気持ちと迷いが重なり、素直に出しにくい状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 16,
+    "card": "Card 16",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 16,
+    "upright": {
+      "direction": "上向き",
+      "title": "意識が大きく変わる",
+      "comment": "相手は、あなたとの関係に対する考えが大きく変わり始めています。今までの見方が崩れ、あなたを違う存在として意識し始めています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "変化に戸惑っている",
+      "comment": "相手の中で、あなたへの気持ちに変化が起きています。ただ、その変化をまだ受け止めきれず、戸惑いや迷いが出ています。",
+      "state": "COLLAPSED",
+      "stateCode": "C",
+      "stateLabel": "再考傾向",
+      "stateMeaning": "関係を見直す流れにある"
+    }
+  },
+  {
+    "id": 17,
+    "card": "Card 17",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 17,
+    "upright": {
+      "direction": "上向き",
+      "title": "やさしい希望がある",
+      "comment": "相手は、あなたとの関係にやさしい希望を感じています。すぐに大きく進むわけではなくても、あなたと関わることに明るさを見つけています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "希望はあるけど慎重",
+      "comment": "相手は、あなたへの気持ちに希望を持ちたいと思っています。ただ、まだ自信が弱く、関わりたい気持ちがあっても慎重になっています。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 18,
+    "card": "Card 18",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 18,
+    "upright": {
+      "direction": "上向き",
+      "title": "気持ちがまだ曖昧",
+      "comment": "相手は、あなたへの気持ちがまだはっきりしていません。気になる思いはありますが、その感情が何なのかをうまく言葉にできていない状態です。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "不安で見えにくい",
+      "comment": "相手は、あなたへの気持ちに不安や迷いを感じています。考えるほど分かりにくくなり、どう近づけばよいのか見失いやすくなっています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 19,
+    "card": "Card 19",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 19,
+    "upright": {
+      "direction": "上向き",
+      "title": "明るく近づきたい",
+      "comment": "相手は、あなたの存在を明るく前向きに受け止めています。あなたと関わることで気持ちが軽くなり、素直に近づきたい感覚があります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "好意を出しきれない",
+      "comment": "相手には、あなたへの好意があります。ただ、まだ素直に表へ出しきれず、照れや迷いが残っています。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 20,
+    "card": "Card 20",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 20,
+    "upright": {
+      "direction": "上向き",
+      "title": "気持ちを見直している",
+      "comment": "相手は、あなたとの関係を改めて見直しています。これまでの出来事をふまえて、あなたへの気持ちを新しく受け止めようとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "過去が少し引っかかる",
+      "comment": "相手は、過去の印象や出来事に少し引っかかっています。あなたを気にしていても、気持ちを整理しきれていない状態です。",
+      "state": "DISPERSED",
+      "stateCode": "S",
+      "stateLabel": "分散傾向",
+      "stateMeaning": "意識や気持ちが散らばっている"
+    }
+  },
+  {
+    "id": 21,
+    "card": "Card 21",
+    "attribute": "MIND",
+    "attributeLabel": "心",
+    "attributeName": "マインド",
+    "attributeTheme": "統合・中心・存在・核",
+    "numberInAttribute": 21,
+    "upright": {
+      "direction": "上向き",
+      "title": "心に自然とおさまる",
+      "comment": "相手は、あなたとの関係にまとまりを感じています。あなたという存在が自然に心の中に入り、安心して受け止めやすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "位置づけを整理中",
+      "comment": "相手は、あなたとの関係をどう位置づけるか、まだ整理の途中にいます。大切に感じる部分はありますが、全体としてまとまりきっていません。",
+      "state": "COLLAPSED",
+      "stateCode": "C",
+      "stateLabel": "再考傾向",
+      "stateMeaning": "関係を見直す流れにある"
+    }
+  },
+  {
+    "id": 22,
+    "card": "Card 22",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 1,
+    "upright": {
+      "direction": "上向き",
+      "title": "少し関わりたい",
+      "comment": "相手には、あなたに少し関わりたい気持ちが生まれています。大きな一歩ではなくても、話したい、近づきたいという思いがあります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "最初の一歩に迷う",
+      "comment": "相手には、あなたに関わりたい気持ちがあります。ただ、最初の一歩をどう出せばよいのか迷い、動きが控えめになっています。",
+      "state": "DISPERSED",
+      "stateCode": "S",
+      "stateLabel": "分散傾向",
+      "stateMeaning": "意識や気持ちが散らばっている"
+    }
+  },
+  {
+    "id": 23,
+    "card": "Card 23",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 2,
+    "upright": {
+      "direction": "上向き",
+      "title": "距離を縮めたい",
+      "comment": "相手は、あなたに向かう気持ちに少し勢いが出ています。関わるほど意識が外へ向き、距離を縮めたい感覚が出やすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "勢いが安定しない",
+      "comment": "相手は、あなたへの気持ちに勢いが出たり弱まったりしています。近づきたい思いはありますが、安定して行動に移しにくい状態です。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 24,
+    "card": "Card 24",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 3,
+    "upright": {
+      "direction": "上向き",
+      "title": "距離を見ながら関わる",
+      "comment": "相手は、あなたへの気持ちを抑えながらも意識しています。勢いだけで近づくのではなく、距離を見ながら関わろうとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "出し方に迷っている",
+      "comment": "相手は、あなたへの気持ちの出し方に迷っています。強く出ると近すぎる気がし、控えると伝わらない気がしている状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 25,
+    "card": "Card 25",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 4,
+    "upright": {
+      "direction": "上向き",
+      "title": "ゆっくり続けたい",
+      "comment": "相手は、あなたとの関係をゆっくり続けたいと思っています。急な変化より、少しずつ積み重なる関わりを心地よく感じています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "関わるペースが乱れる",
+      "comment": "相手は、あなたとの関係を続けたい気持ちはあります。ただ、関わりたい時と距離を置きたい時があり、ペースが少し乱れやすい状態です。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 26,
+    "card": "Card 26",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 5,
+    "upright": {
+      "direction": "上向き",
+      "title": "大切な選択肢",
+      "comment": "相手は、あなたとの関係をどう進めるか考え始めています。迷いはあっても、あなたを大切な選択肢のひとつとして見ています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "優先順位に迷う",
+      "comment": "相手は、あなたへの気持ちに迷いが多くなっています。関わりたい思いはありますが、何を優先すればよいのか決めきれていません。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 27,
+    "card": "Card 27",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 6,
+    "upright": {
+      "direction": "上向き",
+      "title": "自然な距離を探す",
+      "comment": "相手は、あなたとの距離を自然に合わせようとしています。近づきすぎず離れすぎず、無理のない関わり方を探しています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "距離感をつかみにくい",
+      "comment": "相手は、あなたとの距離感を少しつかみにくくなっています。近づいたり離れたりしながら、ちょうどよい関わり方を探っています。",
+      "state": "DISPERSED",
+      "stateCode": "S",
+      "stateLabel": "分散傾向",
+      "stateMeaning": "意識や気持ちが散らばっている"
+    }
+  },
+  {
+    "id": 28,
+    "card": "Card 28",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 7,
+    "upright": {
+      "direction": "上向き",
+      "title": "状況の中でも意識している",
+      "comment": "相手は、周りの状況を見ながらもあなたを意識しています。外からの影響はあっても、あなたとの関係を自分なりに受け止めようとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "気持ちが分散しやすい",
+      "comment": "相手は、周りの状況や他のことに気持ちを取られやすくなっています。あなたを気にしていても、意識が分散しやすい状態です。",
+      "state": "COLLAPSED",
+      "stateCode": "C",
+      "stateLabel": "再考傾向",
+      "stateMeaning": "関係を見直す流れにある"
+    }
+  },
+  {
+    "id": 29,
+    "card": "Card 29",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 8,
+    "upright": {
+      "direction": "上向き",
+      "title": "向き合う自信が出る",
+      "comment": "相手は、あなたに向き合う自信が少しずつ出てきています。あなたとの関係を前向きに考え、自分から近づく感覚も生まれやすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "見られ方が気になる",
+      "comment": "相手は、あなたへの気持ちはありますが、自信が少し揺れています。近づきたい思いがありながら、どう見られるかを気にしやすい状態です。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 30,
+    "card": "Card 30",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 9,
+    "upright": {
+      "direction": "上向き",
+      "title": "素直な好意が動く",
+      "comment": "相手は、あなたへの感情が自然に動いています。あなたと関わることで気持ちがやわらぎ、素直な好意が出やすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "気持ちを出せずにいる",
+      "comment": "相手は、あなたへの感情をうまく出せずにいます。気持ちはありますが、表に出すまでに迷いが出やすい状態です。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 31,
+    "card": "Card 31",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 10,
+    "upright": {
+      "direction": "上向き",
+      "title": "落ち着いた好意",
+      "comment": "相手は、あなたへの気持ちを穏やかに受け止めています。感情に振り回されず、落ち着いた好意として大切にしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "大切だけど不安もある",
+      "comment": "相手は、あなたへの気持ちを整理しようとしていますが、まだ少し揺れが残っています。大切に思う気持ちと不安が重なりやすい状態です。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 32,
+    "card": "Card 32",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 11,
+    "upright": {
+      "direction": "上向き",
+      "title": "もっと知りたい",
+      "comment": "相手は、あなたのことをもっと理解したいと思っています。あなたの言葉や態度を思い返しながら、どんな人なのかを知ろうとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "考えすぎて迷う",
+      "comment": "相手は、あなたのことを考えすぎて少しまとまりにくくなっています。知りたい気持ちはありますが、考えるほど迷いも増えやすい状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 33,
+    "card": "Card 33",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 12,
+    "upright": {
+      "direction": "上向き",
+      "title": "軽く扱えない存在",
+      "comment": "相手は、あなたへの気持ちを深く考えています。少し重さはありますが、それだけあなたの存在を軽く扱えなくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "考えすぎて疲れている",
+      "comment": "相手は、あなたへの気持ちを考え続けて少し疲れています。気持ちは残っていますが、すぐに答えを出せる状態ではありません。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 34,
+    "card": "Card 34",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 13,
+    "upright": {
+      "direction": "上向き",
+      "title": "現実的に考えている",
+      "comment": "相手は、あなたとの関係を現実的に考えています。気持ちだけではなく、実際にどう関われるかを見ながら受け止めています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "事情が動きを止める",
+      "comment": "相手は、あなたへの気持ちと現実の状況に少しずれを感じています。気持ちはあっても、すぐには動けない事情を意識しています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 35,
+    "card": "Card 35",
+    "attribute": "DRIVE",
+    "attributeLabel": "行動",
+    "attributeName": "火",
+    "attributeTheme": "推進・行動・衝動・前進",
+    "numberInAttribute": 14,
+    "upright": {
+      "direction": "上向き",
+      "title": "止まって見えても意識はある",
+      "comment": "相手は、あなたへの気持ちはありますが、状況の影響で動きがゆっくりになっています。関係が止まって見えても、意識が消えているわけではありません。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "状況に動きを止められる",
+      "comment": "相手は、あなたに向かう気持ちがあっても、状況に引っ張られて動きにくくなっています。気持ちよりも、今は環境の重さが前に出やすい状態です。",
+      "state": "UNSTABLE",
+      "stateCode": "U",
+      "stateLabel": "動揺傾向",
+      "stateMeaning": "気持ちが揺れやすい"
+    }
+  },
+  {
+    "id": 36,
+    "card": "Card 36",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 1,
+    "upright": {
+      "direction": "上向き",
+      "title": "新しい親しみ",
+      "comment": "相手は、あなたとの間に新しいつながりを感じ始めています。まだ小さな感覚でも、あなたと関わることに自然な親しみが生まれています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "つながりたいけど様子見",
+      "comment": "相手は、あなたとつながりたい気持ちはあります。ただ、まだ安心しきれておらず、距離を縮める前に様子を見ています。",
+      "state": "UNSTABLE",
+      "stateCode": "U",
+      "stateLabel": "動揺傾向",
+      "stateMeaning": "気持ちが揺れやすい"
+    }
+  },
+  {
+    "id": 37,
+    "card": "Card 37",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 2,
+    "upright": {
+      "direction": "上向き",
+      "title": "関わり方を調整中",
+      "comment": "相手は、あなたとの関係が少しずつ変わってきていると感じています。これまでとは違う距離感を意識し、関わり方を調整しています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "近づく流れと止まる流れ",
+      "comment": "相手は、あなたとの関係が変わりそうで、まだ変わりきらない感覚を持っています。近づく流れと止まる流れが混ざり、距離が揺れやすい状態です。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 38,
+    "card": "Card 38",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 3,
+    "upright": {
+      "direction": "上向き",
+      "title": "穏やかな安心感",
+      "comment": "相手は、あなたとの関係に落ち着きや安心感を持っています。急な高まりより、穏やかに続くつながりとして受け止めています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "安心したいけど不安定",
+      "comment": "相手は、あなたとの関係に安心したい気持ちはあります。ただ、まだ少し不安定で、近いようで距離を感じる場面があります。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 39,
+    "card": "Card 39",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 4,
+    "upright": {
+      "direction": "上向き",
+      "title": "距離感を見直している",
+      "comment": "相手は、あなたとの関係に動きや揺れを感じています。気持ちが変わっている途中で、距離感を見直している状態です。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "日によって揺れやすい",
+      "comment": "相手は、あなたへの気持ちが不安定になりやすい状態です。気になる思いはありますが、日によって受け止め方が変わりやすくなっています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 40,
+    "card": "Card 40",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 5,
+    "upright": {
+      "direction": "上向き",
+      "title": "会いたい気持ちが強まる",
+      "comment": "相手は、あなたに向かう気持ちが一気に動きやすくなっています。連絡したい、会いたい、関わりたいという感覚が強まりやすい状態です。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "タイミングを見ている",
+      "comment": "相手は、あなたに向かう気持ちはありますが、勢いは少し弱まっています。急に進めるより、タイミングを見ながら動こうとしています。",
+      "state": "UNSTABLE",
+      "stateCode": "U",
+      "stateLabel": "動揺傾向",
+      "stateMeaning": "気持ちが揺れやすい"
+    }
+  },
+  {
+    "id": 41,
+    "card": "Card 41",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 6,
+    "upright": {
+      "direction": "上向き",
+      "title": "一度立ち止まっている",
+      "comment": "相手は、あなたとの関係を一度立ち止まって見ています。気持ちが消えたのではなく、これからどう関わるかを考える時間に入っています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "考えすぎて動けない",
+      "comment": "相手は、あなたへの気持ちを抱えたまま動きが止まりやすくなっています。考えすぎて、近づくきっかけを作りにくい状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 42,
+    "card": "Card 42",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 7,
+    "upright": {
+      "direction": "上向き",
+      "title": "また関わりたい流れ",
+      "comment": "相手は、止まっていた気持ちが少しずつ動き始めています。あなたとまた関わりたい感覚が戻り、距離を縮める流れが出ています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "戻りかけているけど慎重",
+      "comment": "相手は、あなたに向かう気持ちが戻りかけています。ただ、まだ動きはゆっくりで、関わりたい思いと慎重さが重なっています。",
+      "state": "DISPERSED",
+      "stateCode": "S",
+      "stateLabel": "分散傾向",
+      "stateMeaning": "意識や気持ちが散らばっている"
+    }
+  },
+  {
+    "id": 43,
+    "card": "Card 43",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 8,
+    "upright": {
+      "direction": "上向き",
+      "title": "内側で強まる気持ち",
+      "comment": "相手は、あなたへの気持ちが内側で強まっています。表には出にくくても、あなたを意識する時間が少しずつ増えています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "意識が散らばりやすい",
+      "comment": "相手は、あなたへの気持ちが散らばりやすくなっています。気になる思いはありますが、他のことに意識を取られやすい状態です。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 44,
+    "card": "Card 44",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 9,
+    "upright": {
+      "direction": "上向き",
+      "title": "気持ちがにじみ出る",
+      "comment": "相手は、あなたへの気持ちを少しずつ表に出したくなっています。言葉や態度に、内側の思いがにじみやすい状態です。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "言葉にするまで時間がかかる",
+      "comment": "相手は、あなたへの気持ちを表に出しにくくなっています。思っていることはありますが、言葉にするまでに時間がかかりやすい状態です。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 45,
+    "card": "Card 45",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 10,
+    "upright": {
+      "direction": "上向き",
+      "title": "あなたに意識が集中",
+      "comment": "相手は、あなたへの意識が強く集中しています。ほかのことよりも、あなたの存在や反応が気になりやすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "向き合う余裕が少ない",
+      "comment": "相手は、あなたを意識していても気持ちが散りやすい状態です。関わりたい思いはありますが、集中して向き合う余裕が少なくなっています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 46,
+    "card": "Card 46",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 11,
+    "upright": {
+      "direction": "上向き",
+      "title": "広く理解しようとしている",
+      "comment": "相手は、あなたとの関係をいろいろな角度から見ています。ひとつの感情だけでなく、あなたという存在を広く理解しようとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "考えがまとまりにくい",
+      "comment": "相手は、あなたのことを考える視点が増えすぎて迷いやすくなっています。気になる気持ちはありますが、考えがまとまりにくい状態です。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 47,
+    "card": "Card 47",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 12,
+    "upright": {
+      "direction": "上向き",
+      "title": "気持ちを整理できている",
+      "comment": "相手は、あなたへの気持ちを落ち着いて整理できています。自分がどう感じているのかを冷静に見ながら、関係を考えています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "好意と迷いが混ざる",
+      "comment": "相手は、あなたへの気持ちを考えるほど少し混乱しやすくなっています。好意や迷いが混ざり、すぐには言葉にしにくい状態です。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 48,
+    "card": "Card 48",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 13,
+    "upright": {
+      "direction": "上向き",
+      "title": "迷いの中でも気にしている",
+      "comment": "相手は、あなたへの気持ちに少し混乱があります。分からなさは残っていますが、それでもあなたを気にする意識は続いています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "混乱が落ち着き始める",
+      "comment": "相手は、あなたへの気持ちの混乱が少しずつ落ち着き始めています。まだはっきりしなくても、気持ちを整理する流れに入っています。",
+      "state": "UNSTABLE",
+      "stateCode": "U",
+      "stateLabel": "動揺傾向",
+      "stateMeaning": "気持ちが揺れやすい"
+    }
+  },
+  {
+    "id": 49,
+    "card": "Card 49",
+    "attribute": "EMOTION",
+    "attributeLabel": "感情",
+    "attributeName": "水",
+    "attributeTheme": "感情・共感・愛・心",
+    "numberInAttribute": 14,
+    "upright": {
+      "direction": "上向き",
+      "title": "直感的に惹かれている",
+      "comment": "相手は、あなたに直感的に惹かれています。理由をうまく説明できなくても、あなたの存在が心に残りやすい状態です。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "惹かれる感覚を信じきれない",
+      "comment": "相手は、あなたに惹かれる感覚と現実的な考えの間で迷っています。気になる気持ちはあっても、そのまま信じきれずにいます。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 50,
+    "card": "Card 50",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 1,
+    "upright": {
+      "direction": "上向き",
+      "title": "具体的に考えている",
+      "comment": "相手は、あなたとの関係を現実的に進められるものとして見ています。気持ちだけでなく、具体的にどう関われるかを考えています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "条件を先に見やすい",
+      "comment": "相手は、あなたとの関係を現実的に考えすぎています。そのため、気持ちはあっても、条件や状況のほうを先に見やすい状態です。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 51,
+    "card": "Card 51",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 2,
+    "upright": {
+      "direction": "上向き",
+      "title": "気持ちが落ち着いていく",
+      "comment": "相手は、あなたへの気持ちが少しずつ落ち着いてきています。揺れがあったとしても、穏やかに受け止め直す流れがあります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "余裕が戻りきっていない",
+      "comment": "相手は、あなたへの気持ちが落ち着くまで少し時間がかかっています。関わりたい思いはありますが、心の余裕が戻りきっていません。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 52,
+    "card": "Card 52",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 3,
+    "upright": {
+      "direction": "上向き",
+      "title": "表に出ない整理の時間",
+      "comment": "相手は、関係が大きく動かなくても、内側ではあなたのことを考え続けています。表に出ない時間の中で、気持ちを整理しています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "考えているけど動けない",
+      "comment": "相手は、あなたへの気持ちを抱えたまま停滞しやすくなっています。考えてはいますが、行動に移す流れが生まれにくい状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 53,
+    "card": "Card 53",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 4,
+    "upright": {
+      "direction": "上向き",
+      "title": "変わる前の気配",
+      "comment": "相手は、あなたとの関係が変わる前の感覚を持っています。まだ表には出ていなくても、気持ちの向きが少しずつ動いています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "きっかけを待っている",
+      "comment": "相手は、あなたとの関係を変えたい気持ちはあります。ただ、きっかけを待っていて、まだ外には出しにくい状態です。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 54,
+    "card": "Card 54",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 5,
+    "upright": {
+      "direction": "上向き",
+      "title": "関係の土台を考える",
+      "comment": "相手は、あなたとの関係の見方そのものが変わり始めています。表面的な好意だけでなく、この関係の土台を考えるようになっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "見直しの途中",
+      "comment": "相手は、あなたとの関係を見直している途中です。大きく変えたい気持ちはあっても、まだ心の中で整理しきれていません。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 55,
+    "card": "Card 55",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 6,
+    "upright": {
+      "direction": "上向き",
+      "title": "同じ気持ちではいられない",
+      "comment": "相手は、あなたとの関係に大きな変化を感じています。戸惑いはあっても、これまでと同じ気持ちではいられなくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "変化に混乱している",
+      "comment": "相手は、あなたへの気持ちの変化に少し混乱しています。惹かれる思いと不安が重なり、どう受け止めるか迷っています。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 56,
+    "card": "Card 56",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 7,
+    "upright": {
+      "direction": "上向き",
+      "title": "新しく向き合いたい",
+      "comment": "相手は、あなたとの関係を新しく作り直したい感覚があります。これまでの距離感のままではなく、少し違う形で向き合おうとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "整え直したいけど途中",
+      "comment": "相手は、あなたとの関係を整え直したい気持ちはあります。ただ、まだ形にしきれておらず、どう近づけばよいのか考えている途中です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 57,
+    "card": "Card 57",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 8,
+    "upright": {
+      "direction": "上向き",
+      "title": "動きながら安定している",
+      "comment": "相手は、あなたとの関係が動きながらも安定していると感じています。変化を受け止めながら、無理のない距離で関わろうとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "進めたい気持ちと整えたい気持ち",
+      "comment": "相手は、あなたとの関係を進めたい気持ちと、落ち着かせたい気持ちの間で揺れています。近づく流れと整える流れが混ざっています。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 58,
+    "card": "Card 58",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 9,
+    "upright": {
+      "direction": "上向き",
+      "title": "揺れても続く気持ち",
+      "comment": "相手は、あなたへの気持ちが揺れながらも続いています。はっきりしない部分はあっても、完全に離れているわけではありません。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "安心して近づきにくい",
+      "comment": "相手は、あなたへの気持ちが乱れやすくなっています。気になる思いはありますが、安心して近づくにはまだ揺れが残っています。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 59,
+    "card": "Card 59",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 10,
+    "upright": {
+      "direction": "上向き",
+      "title": "もっと知りたい広がり",
+      "comment": "相手は、あなたとの関係に広がりを感じています。もっと知りたい、違う一面を見たいという感覚が出やすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "深く近づく前の様子見",
+      "comment": "相手は、あなたへの関心がまだ広がりきっていません。気になる思いはありますが、深く近づく前に少し様子を見ています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 60,
+    "card": "Card 60",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 11,
+    "upright": {
+      "direction": "上向き",
+      "title": "気持ちがまとまりつつある",
+      "comment": "相手は、あなたへの意識がひとつの方向にまとまりつつあります。迷いが少し減り、あなたをどう見ているのかが分かりやすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "ひとつの印象に偏る",
+      "comment": "相手は、あなたへの見方がひとつの印象に偏りやすくなっています。そのため、あなた全体を見えにくくなっている状態です。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 61,
+    "card": "Card 61",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 12,
+    "upright": {
+      "direction": "上向き",
+      "title": "心の距離が近づく",
+      "comment": "相手は、あなたとのつながりを感じやすくなっています。言葉や時間を重ねることで、心の距離が少し近づいています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "近づきたいけど遠慮がある",
+      "comment": "相手は、あなたとつながりたい気持ちはあります。ただ、まだ距離が残っていて、近づきたい思いと遠慮が重なっています。",
+      "state": "DISPERSED",
+      "stateCode": "S",
+      "stateLabel": "分散傾向",
+      "stateMeaning": "意識や気持ちが散らばっている"
+    }
+  },
+  {
+    "id": 62,
+    "card": "Card 62",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 13,
+    "upright": {
+      "direction": "上向き",
+      "title": "自然な距離を見直す",
+      "comment": "相手は、あなたとの距離を見直しています。離れたいのではなく、どのくらいの距離が自然なのかを感じ取ろうとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "近づき方が分からない",
+      "comment": "相手は、あなたとの距離を少し遠く感じています。気持ちが完全に切れているわけではありませんが、近づき方が分からなくなっています。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 63,
+    "card": "Card 63",
+    "attribute": "THINKING",
+    "attributeLabel": "思考",
+    "attributeName": "風",
+    "attributeTheme": "思考・認識・理解・判断",
+    "numberInAttribute": 14,
+    "upright": {
+      "direction": "上向き",
+      "title": "大切な存在として受け止める",
+      "comment": "相手は、あなたへの気持ちや考えがまとまり始めています。あなたを、ひとつの大切な存在として受け止めやすくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "答えがまとまりきらない",
+      "comment": "相手は、あなたへの気持ちがまだまとまりきっていません。好意、迷い、不安がそれぞれ残り、ひとつの答えになっていない状態です。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 64,
+    "card": "Card 64",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 1,
+    "upright": {
+      "direction": "上向き",
+      "title": "距離を置いて見ている",
+      "comment": "相手は、あなたとの関係を少し距離を置いて見ています。離れたいのではなく、自分の気持ちとあなたへの思いを分けて考えています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "壁を感じやすい",
+      "comment": "相手は、あなたとの間に距離や壁を感じやすくなっています。気持ちは残っていても、近づくより先に慎重さが出やすい状態です。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 65,
+    "card": "Card 65",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 2,
+    "upright": {
+      "direction": "上向き",
+      "title": "関わりたい思いが強まる",
+      "comment": "相手は、あなたへの気持ちが強まりやすくなっています。あなたの存在が心に残り、関わりたい思いが大きくなっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "気持ちが控えめになる",
+      "comment": "相手は、あなたへの気持ちが少し控えめになっています。完全に消えているわけではありませんが、今は強く出にくい状態です。",
+      "state": "INACTIVE",
+      "stateCode": "I",
+      "stateLabel": "低調傾向",
+      "stateMeaning": "反応や気持ちが弱まっている"
+    }
+  },
+  {
+    "id": 66,
+    "card": "Card 66",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 3,
+    "upright": {
+      "direction": "上向き",
+      "title": "無理のない距離に戻る",
+      "comment": "相手は、強くなりすぎた気持ちが少し落ち着いています。あなたへの意識は残っていますが、無理のない距離へ戻ろうとしています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "動く余裕が少ない",
+      "comment": "相手は、あなたに向かう力が少し下がっています。気持ちはあっても、積極的に動く余裕が少なくなっています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 67,
+    "card": "Card 67",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 4,
+    "upright": {
+      "direction": "上向き",
+      "title": "次の関わり方を考える",
+      "comment": "相手は、あなたとの関係を一時的に止めて見ています。気持ちがなくなったのではなく、次にどう関わるかを考えています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "きっかけを見つけにくい",
+      "comment": "相手は、あなたへの気持ちを抱えたまま止まりやすくなっています。動きたい思いがあっても、きっかけを見つけにくい状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 68,
+    "card": "Card 68",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 5,
+    "upright": {
+      "direction": "上向き",
+      "title": "関心が戻り始める",
+      "comment": "相手は、あなたに向かう気持ちが再び動き始めています。止まっていた関心が戻り、少しずつ関わりたい感覚が出ています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "動き出すまで時間がかかる",
+      "comment": "相手は、あなたに近づきたい気持ちが戻りかけています。ただ、まだ自信が弱く、動き出すまでに少し時間がかかりそうです。",
+      "state": "UNSTABLE",
+      "stateCode": "U",
+      "stateLabel": "動揺傾向",
+      "stateMeaning": "気持ちが揺れやすい"
+    }
+  },
+  {
+    "id": 69,
+    "card": "Card 69",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 6,
+    "upright": {
+      "direction": "上向き",
+      "title": "変わらない安心感",
+      "comment": "相手は、あなたとの関係を安定したものとして感じています。大きな刺激よりも、変わらず関われる安心感を受け取っています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "安定感を見直している",
+      "comment": "相手は、あなたとの安定感が少し揺れています。大きく崩れているわけではなく、安心を保つために距離を見直している状態です。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 70,
+    "card": "Card 70",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 7,
+    "upright": {
+      "direction": "上向き",
+      "title": "小さな変化が続く",
+      "comment": "相手は、あなたへの気持ちに小さな変化を感じ続けています。大きく動いていなくても、見方や受け止め方が少しずつ変わっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "変化が表に出にくい",
+      "comment": "相手は、あなたへの気持ちの変化が表に出にくくなっています。気にしてはいますが、流れが小さく見えにくい状態です。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 71,
+    "card": "Card 71",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 8,
+    "upright": {
+      "direction": "上向き",
+      "title": "感情が心に残る",
+      "comment": "相手は、あなたへの感情が判断に強く影響しています。理屈よりも、あなたと関わった時の気持ちが心に残りやすい状態です。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "気持ちを隠しやすい",
+      "comment": "相手は、あなたへの感情を抑えようとしています。気持ちはありますが、素直に認めるより隠しやすくなっています。",
+      "state": "COLLAPSED",
+      "stateCode": "C",
+      "stateLabel": "再考傾向",
+      "stateMeaning": "関係を見直す流れにある"
+    }
+  },
+  {
+    "id": 72,
+    "card": "Card 72",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 9,
+    "upright": {
+      "direction": "上向き",
+      "title": "冷静に整理している",
+      "comment": "相手は、あなたとの関係を冷静に考えています。感情だけで進まず、自分にとってあなたがどんな存在なのかを整理しています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "理屈を優先しやすい",
+      "comment": "相手は、あなたへの気持ちを考えすぎて少し固くなっています。心で感じていることより、理屈を優先しやすい状態です。",
+      "state": "UNSTABLE",
+      "stateCode": "U",
+      "stateLabel": "動揺傾向",
+      "stateMeaning": "気持ちが揺れやすい"
+    }
+  },
+  {
+    "id": 73,
+    "card": "Card 73",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 10,
+    "upright": {
+      "direction": "上向き",
+      "title": "続けられる距離を考える",
+      "comment": "相手は、あなたとの関係を現実的に受け止めています。気持ちだけでなく、実際に続けられる距離や関わり方を考えています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "事情を先に意識する",
+      "comment": "相手は、現実的な事情を見すぎています。そのため、あなたへの感情が少し後ろに下がり、条件や状況を先に意識しやすくなっています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 74,
+    "card": "Card 74",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 11,
+    "upright": {
+      "direction": "上向き",
+      "title": "自然に続く流れ",
+      "comment": "相手は、あなたとの関係が自然な流れに乗っていると感じています。無理に進めなくても、関わりが続く感覚を受け取っています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "タイミングが合いにくい",
+      "comment": "相手は、あなたとの流れに少しずれを感じています。気持ちはあっても、タイミングや距離が合いにくくなっています。",
+      "state": "BLOCKED",
+      "stateCode": "B",
+      "stateLabel": "停滞傾向",
+      "stateMeaning": "流れが止まりやすい"
+    }
+  },
+  {
+    "id": 75,
+    "card": "Card 75",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 12,
+    "upright": {
+      "direction": "上向き",
+      "title": "次の段階への準備",
+      "comment": "相手は、あなたとの関係が次の段階へ向かう前の感覚を持っています。まだはっきり動いていなくても、気持ちの準備が始まっています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "進むタイミングを探す",
+      "comment": "相手は、あなたとの関係を変えたい気持ちはあります。ただ、まだ進むタイミングを探していて、気持ちは表に出にくい状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  },
+  {
+    "id": 76,
+    "card": "Card 76",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 13,
+    "upright": {
+      "direction": "上向き",
+      "title": "穏やかにまとまる気持ち",
+      "comment": "相手は、あなたへの気持ちが落ち着いた形へまとまりつつあります。揺れの後に、穏やかに受け止め直す流れがあります。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "小さな揺れが残る",
+      "comment": "相手は、あなたへの気持ちがまだまとまりきっていません。落ち着きたい思いはありますが、心の中に小さな揺れが残っています。",
+      "state": "DISTORTED",
+      "stateCode": "D",
+      "stateLabel": "相違傾向",
+      "stateMeaning": "気持ちや認識にズレがある"
+    }
+  },
+  {
+    "id": 77,
+    "card": "Card 77",
+    "attribute": "REALITY",
+    "attributeLabel": "現実",
+    "attributeName": "地",
+    "attributeTheme": "現実・形成・安定・結果",
+    "numberInAttribute": 14,
+    "upright": {
+      "direction": "上向き",
+      "title": "大切なつながり",
+      "comment": "相手は、あなたとの関係を大切なつながりとして受け止めています。気持ちや考えが自然にまとまり、あなたの存在が心の中にしっかり残っています。",
+      "state": "ACTIVE",
+      "stateCode": "A",
+      "stateLabel": "安定傾向",
+      "stateMeaning": "関係や気持ちが落ち着いている"
+    },
+    "reversed": {
+      "direction": "下向き",
+      "title": "少しずつ形にしている",
+      "comment": "相手は、あなたへの気持ちを大切に感じています。ただ、まだ完全には整理しきれておらず、関係をどう形にするかを少しずつまとめている状態です。",
+      "state": "OVERLOADED",
+      "stateCode": "O",
+      "stateLabel": "過熱傾向",
+      "stateMeaning": "気持ちが強くなりすぎている"
+    }
+  }
+]
