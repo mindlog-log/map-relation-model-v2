@@ -250,8 +250,8 @@ export default function App() {
       <div className="ambient ambient-two" />
 
       <main className="phone-frame">
-        <audio ref={bgmRef} src="/sounds/bgm_relation_v2.mp3" preload="auto" />
-        <audio ref={observeSoundRef} src="/sounds/sound_observe.mp3" preload="auto" />
+       <audio ref={bgmRef} src="/bgm_relation_v2.mp3" preload="auto" />
+<audio ref={observeSoundRef} src="/sound_observe.mp3" preload="auto" />
         <header className="app-header">
           <button className="round-button" aria-label="メニュー">☰</button>
           <div>
