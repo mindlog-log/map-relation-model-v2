@@ -44,12 +44,12 @@ const ATTRIBUTE_ICON = {
   REALITY: "❧",
 };
 
-const ATTRIBUTE_IMAGE_CLASS = {
-  MIND: "image-mind",
-  EMOTION: "image-emotion",
-  DRIVE: "image-drive",
-  THINKING: "image-thinking",
-  REALITY: "image-reality",
+const ATTRIBUTE_IMAGE_SRC = {
+  MIND: "/visuals/mind.png",
+  EMOTION: "/visuals/emotion.png",
+  DRIVE: "/visuals/drive.png",
+  THINKING: "/visuals/thinking.png",
+  REALITY: "/visuals/reality.png",
 };
 
 const ATTRIBUTE_DISPLAY_LABEL = {
@@ -108,9 +108,20 @@ function ResultCard({ item, index }) {
         <span>{item.card.attribute}</span>
       </div>
 
-      <div className={`card-visual visual-${item.card.attribute.toLowerCase()} ${ATTRIBUTE_IMAGE_CLASS[item.card.attribute] || ""}`}>
-        <span className="visual-symbol">{attributeIcon}</span>
-      </div>
+      <div className="card-visual">
+ <img
+  src={ATTRIBUTE_IMAGE_SRC[item.card.attribute]}
+  alt={item.card.attribute}
+  className="card-visual-image"
+  style={{
+    width: "100%",
+    height: "100%",
+    objectFit: "cover",
+    display: "block",
+    borderRadius: "24px",
+  }}
+/>
+</div>
 
       <p className="card-no">No.{String(item.card.numberInAttribute).padStart(2, "0")}</p>
       <h4>{reading.title}</h4>
