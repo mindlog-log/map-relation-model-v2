@@ -45,11 +45,11 @@ const ATTRIBUTE_ICON = {
 };
 
 const ATTRIBUTE_IMAGE_SRC = {
-  MIND: "/visuals/mind.png",
-  EMOTION: "/visuals/emotion.png",
-  DRIVE: "/visuals/drive.png",
-  THINKING: "/visuals/thinking.png",
-  REALITY: "/visuals/reality.png",
+  MIND: "/mind.png",
+  EMOTION: "/emotion.png",
+  DRIVE: "/drive.png",
+  THINKING: "/thinking.png",
+  REALITY: "/reality.png",
 };
 
 const ATTRIBUTE_DISPLAY_LABEL = {
