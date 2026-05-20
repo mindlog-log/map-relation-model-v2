@@ -524,6 +524,9 @@ export default function App() {
           background: rgba(255,255,255,0.92);
           box-shadow: 0 20px 42px rgba(56, 142, 174, 0.2);
           overflow: hidden;
+          display: flex;
+flex-direction: column;
+height: 100%;
         }
 
         .result-card::after {
@@ -536,20 +539,8 @@ export default function App() {
         }
 
         .number-badge {
-          position: absolute;
-          top: -1px;
-          left: auto;
-          transform: translate(-50%, -50%);
-          display: grid;
-          place-items: center;
-          width: 42px;
-          height: 42px;
-          border-radius: 50%;
-          color: white;
-          background: linear-gradient(135deg, var(--state-color), #72c9ed);
-          box-shadow: 0 8px 18px rgba(40, 146, 184, 0.38);
-          font-weight: 700;
-        }
+  display: none;
+}
 
         .result-card h3 {
           margin: 0;
