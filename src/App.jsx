@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import cardsData from "./data/map_relation_cards_data_v2.json";
+import cardsData from "../map_relation_cards_data_v2.json";
 
 const SLOT_LABELS = [
   {
