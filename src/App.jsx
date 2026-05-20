@@ -983,22 +983,25 @@ export default function App() {
         }
 
         .bottom-nav {
-          position: relative;
-          left: 50%;
-          bottom: auto;
-          transform: none;
-          z-index: 10;
-          margin: 72px auto 0;
-          display: grid;
-          grid-template-columns: repeat(4, 1fr);
-          gap: 4px;
-          width: min(760px, calc(100% - 28px));
-          padding: 8px;
-          border-radius: 24px;
-          background: rgba(255,255,255,0.94);
-          box-shadow: 0 14px 40px rgba(50, 131, 164, 0.28);
-          backdrop-filter: blur(18px);
-        }
+  position: relative;
+  left: auto;
+  right: auto;
+  bottom: auto;
+  transform: none;
+  z-index: 10;
+  width: min(720px, calc(100% - 36px));
+  margin: 72px auto 0;
+  padding: 10px;
+  border-radius: 28px;
+  background: rgba(255,255,255,0.94);
+  box-shadow: 0 14px 40px rgba(50, 131, 164, 0.28);
+  backdrop-filter: blur(18px);
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
 
         .bottom-nav button {
           display: grid;
@@ -1056,7 +1059,22 @@ export default function App() {
             width: 52px;
             height: 52px;
           }
+.bottom-nav {
+  width: calc(100% - 24px);
+  max-width: 420px;
+  margin: 56px auto 0;
+  padding: 8px;
+  border-radius: 24px;
+  gap: 4px;
+}
 
+.bottom-nav button {
+  min-width: 0;
+  padding: 12px 4px;
+  font-size: 0.74rem;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
           .flow-list::before {
             left: -28px;
             width: 180px;
