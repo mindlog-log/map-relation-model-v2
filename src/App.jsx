@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import cardsData from "../map_relation_cards_data_v2.json";
+import cardsData from "./data/map_relation_cards_data_v2.json";
 
 const SLOT_LABELS = [
   {
@@ -44,12 +44,12 @@ const ATTRIBUTE_ICON = {
   REALITY: "❧",
 };
 
-const ATTRIBUTE_IMAGE_SRC = {
-  MIND: "/mind.png",
-  EMOTION: "/emotion.png",
-  DRIVE: "/drive.png",
-  THINKING: "/thinking.png",
-  REALITY: "/reality.png",
+const ATTRIBUTE_IMAGE_CLASS = {
+  MIND: "image-mind",
+  EMOTION: "image-emotion",
+  DRIVE: "image-drive",
+  THINKING: "image-thinking",
+  REALITY: "image-reality",
 };
 
 const ATTRIBUTE_DISPLAY_LABEL = {
@@ -108,20 +108,9 @@ function ResultCard({ item, index }) {
         <span>{item.card.attribute}</span>
       </div>
 
-      <div className="card-visual">
- <img
-  src={ATTRIBUTE_IMAGE_SRC[item.card.attribute]}
-  alt={item.card.attribute}
-  className="card-visual-image"
-  style={{
-    width: "100%",
-    height: "100%",
-    objectFit: "cover",
-    display: "block",
-    borderRadius: "24px",
-  }}
-/>
-</div>
+      <div className={`card-visual visual-${item.card.attribute.toLowerCase()} ${ATTRIBUTE_IMAGE_CLASS[item.card.attribute] || ""}`}>
+        <span className="visual-symbol">{attributeIcon}</span>
+      </div>
 
       <p className="card-no">No.{String(item.card.numberInAttribute).padStart(2, "0")}</p>
       <h4>{reading.title}</h4>
@@ -538,7 +527,7 @@ export default function App() {
         .number-badge {
           position: absolute;
           top: -1px;
-          left: 50%;
+          left: auto;
           transform: translate(-50%, -50%);
           display: grid;
           place-items: center;
@@ -945,7 +934,7 @@ export default function App() {
           justify-content: center;
           gap: 18px;
           width: min(420px, 92%);
-          margin: 28px auto 0;
+          margin: 28px auto 96px;
           padding: 16px 22px;
           border: 0;
           border-radius: 999px;
@@ -994,11 +983,12 @@ export default function App() {
         }
 
         .bottom-nav {
-          position: fixed;
+          position: relative;
           left: 50%;
-          bottom: 18px;
-          transform: translateX(-50%);
+          bottom: auto;
+          transform: none;
           z-index: 10;
+          margin: 72px auto 0;
           display: grid;
           grid-template-columns: repeat(4, 1fr);
           gap: 4px;
@@ -1034,7 +1024,7 @@ export default function App() {
 
         @media (max-width: 820px) {
           .phone-frame {
-            padding: 24px 14px 94px;
+            padding: 24px 14px 150px;
             border-radius: 28px;
           }
 
