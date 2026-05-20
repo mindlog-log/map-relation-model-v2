@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import cardsData from "../map_relation_cards_data_v2.json";
+import cardsData from "./data/map_relation_cards_data_v2.json";
 
 const SLOT_LABELS = [
   {
@@ -250,8 +250,8 @@ export default function App() {
       <div className="ambient ambient-two" />
 
       <main className="phone-frame">
-       <audio ref={bgmRef} src="/bgm_relation_v2.mp3" preload="auto" />
-<audio ref={observeSoundRef} src="/sound_observe.mp3" preload="auto" />
+        <audio ref={bgmRef} src="/sounds/bgm_relation_v2.mp3" preload="auto" />
+        <audio ref={observeSoundRef} src="/sounds/sound_observe.mp3" preload="auto" />
         <header className="app-header">
           <button className="round-button" aria-label="メニュー">☰</button>
           <div>
@@ -840,29 +840,64 @@ export default function App() {
         .flow-list::before {
           content: "";
           position: absolute;
-          left: 35px;
-          top: 48px;
-          bottom: 48px;
-          width: 2px;
-          background: linear-gradient(#27c7b3, #2497e0, #2ecaa8);
-          opacity: 0.58;
+          left: -10px;
+          top: 4px;
+          bottom: 4px;
+          width: 250px;
+          background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 250 520' preserveAspectRatio='none'%3E%3Cdefs%3E%3ClinearGradient id='river' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%2327c7d9' stop-opacity='0.78'/%3E%3Cstop offset='48%25' stop-color='%235bbcf0' stop-opacity='0.68'/%3E%3Cstop offset='100%25' stop-color='%232fd0b4' stop-opacity='0.76'/%3E%3C/linearGradient%3E%3Cfilter id='soft'%3E%3CfeGaussianBlur stdDeviation='1.6'/%3E%3C/filter%3E%3C/defs%3E%3Cpath d='M68 4 C18 74, 210 102, 116 178 C38 241, 205 280, 82 358 C20 398, 62 470, 30 516' stroke='url(%23river)' stroke-width='62' fill='none' stroke-linecap='round' filter='url(%23soft)'/%3E%3Cpath d='M70 10 C26 78, 200 104, 116 176 C46 238, 190 282, 84 354 C26 396, 64 462, 36 510' stroke='white' stroke-opacity='0.52' stroke-width='18' fill='none' stroke-linecap='round'/%3E%3Cpath d='M78 28 C54 88, 176 118, 122 174 C78 222, 142 286, 98 346 C58 398, 70 452, 48 498' stroke='white' stroke-opacity='0.55' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3Ccircle cx='63' cy='65' r='3' fill='white' opacity='0.9'/%3E%3Ccircle cx='157' cy='170' r='2.5' fill='white' opacity='0.82'/%3E%3Ccircle cx='70' cy='322' r='3' fill='white' opacity='0.9'/%3E%3Ccircle cx='38' cy='460' r='2.6' fill='white' opacity='0.86'/%3E%3C/svg%3E");
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          opacity: 0.95;
+          pointer-events: none;
+        }
+
+        .flow-list::after {
+          content: "";
+          position: absolute;
+          left: 16px;
+          top: 18px;
+          bottom: 18px;
+          width: 220px;
+          background:
+            radial-gradient(circle at 28% 13%, rgba(255,255,255,0.95) 0 3px, transparent 4px),
+            radial-gradient(circle at 72% 36%, rgba(255,255,255,0.86) 0 2px, transparent 3px),
+            radial-gradient(circle at 22% 65%, rgba(255,255,255,0.92) 0 3px, transparent 4px),
+            radial-gradient(circle at 14% 88%, rgba(255,255,255,0.82) 0 2px, transparent 3px);
+          pointer-events: none;
+          opacity: 0.9;
         }
 
         .flow-item {
           position: relative;
+          z-index: 1;
           display: grid;
           grid-template-columns: 72px 1fr;
           gap: 16px;
           align-items: center;
           padding: 16px;
           border-radius: 999px;
-          background: rgba(255,255,255,0.9);
-          box-shadow: inset 0 0 0 1px rgba(58, 174, 204, 0.2), 0 10px 24px rgba(58, 145, 176, 0.1);
+          background: rgba(255,255,255,0.92);
+          box-shadow: inset 0 0 0 1px rgba(58, 174, 204, 0.2), 0 10px 24px rgba(58, 145, 176, 0.12);
+        }
+
+        .flow-item:nth-child(1) {
+          margin-left: 18px;
+          margin-right: 0;
+        }
+
+        .flow-item:nth-child(2) {
+          margin-left: 92px;
+          margin-right: 0;
+        }
+
+        .flow-item:nth-child(3) {
+          margin-left: 30px;
+          margin-right: 0;
         }
 
         .flow-icon {
           position: relative;
-          z-index: 1;
+          z-index: 2;
           display: grid;
           place-items: center;
           width: 64px;
@@ -1022,7 +1057,19 @@ export default function App() {
           }
 
           .flow-list::before {
-            left: 26px;
+            left: -28px;
+            width: 180px;
+          }
+
+          .flow-list::after {
+            left: -12px;
+            width: 150px;
+          }
+
+          .flow-item:nth-child(1),
+          .flow-item:nth-child(2),
+          .flow-item:nth-child(3) {
+            margin-left: 0;
           }
         }
       `}</style>
